@@ -78,6 +78,7 @@
   # Sunrise-Start
   - type: ShowThirstIcons
   - type: ShowHungerIcons
+  - type: ShowHealthIcons
   - type: ShowHealthBars
     damageContainers:
       - Biological
